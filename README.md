@@ -1,6 +1,6 @@
 # WORK-FOR-A-SMALL-BUSINESS
 
-Welcome to the **WORK-FOR-A-SMALL-BUSINESS** repository! This project was created to help a **small home-based BBQ business🍖🔥🍢*** streamline its operations, enhance customer experience, and establish an online presence. The system includes features like a digital menu, billing format, and QR codes for easy access and payments.
+Welcome to the **WORK-FOR-A-SMALL-BUSINESS** repository! This project was created to help a **SMALL HOME-BASED BBQ BUSINESS🍖🔥🍢** streamline its operations, enhance customer experience, and establish an online presence. The system includes features like a digital menu, billing format, and QR codes for easy access and payments.
 
 ---
 
